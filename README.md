@@ -1,8 +1,6 @@
 **Welcome!** 🫶🏻
 
-I have a background in design and as a software development student, I am learning the tools to my ideas into life. I have a particular interest in object-oriented programming, front-end development, multi-platform and native app development and the software engineering process.
-
-I am well-versed in programming with Java, Python, SQL, Kotlin, HTML, CSS, and JavaScript.
+I have a background in design and as a software development student, I am learning the tools to my ideas into life. I have a particular interest in object-oriented programming, front-end development, multi-platform and native app development and the software engineering process. I am well-versed in programming with Java, Python, SQL, Kotlin, HTML, CSS, and JavaScript.
 
 I am currently...
 - learning React (with Vite)
